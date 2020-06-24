@@ -21,4 +21,4 @@ google-analytics:
 exclude: ['package.json', 'src' , 'node_modules']
 remote_theme:murraco/jekyll-theme-minimal-resume
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal-resume
