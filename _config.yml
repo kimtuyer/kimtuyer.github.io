@@ -3,7 +3,7 @@ title: 김규태
 description: Kyu-Tae Kim Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-url:https://kimtuyer.github.io/
+url:"https://kimtuyer.github.io/"
 
 # User settings
 username: kimtuyer
